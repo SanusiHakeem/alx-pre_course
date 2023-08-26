@@ -1,0 +1,4 @@
+git branch -m -a main
+git add .
+git commit
+git push origin main
